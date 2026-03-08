@@ -29,8 +29,20 @@ packages/ — Dependencies (if any)
 Additional config directories
 
 🔽 How to Download & Install
+ 1. Clone the repository git clone https://github.com/Truonthanh/Cuahangsach-online.git
+ 2. Open the project Navigate to: cd Cuahangsach-online/Nhom06_QuanLyBanSah Open the .sln file with Visual Studio.
+ 3. Fix the connection string
+ 4. Run the project Press F5 in Visual Studio.
 
+🤝 Contribution We welcome contributions!
 
+❤️ Special Thanks Appreciation to all team members who made this project possible:
+
+Phan Anh Thư
+
+Lê Thanh Tùng
+
+Võ Thị Kiểu Oanh
    
    
    
